@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/root/workspace/web/first/main.js",
+        "/root/workspace/web/first/vendor/require/domReady.js",
+        "/root/workspace/web/server.js",
+        "/root/workspace/web/first/t1/lib/onsen/js/onsenui_all.js"
+    ]
+}
